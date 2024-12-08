@@ -623,6 +623,6 @@ a.pagination-item:hover {
 @media (orientation: portrait) {
     #contact {
     font-size: small;
-    padding-left:
+    padding-left: 1rem;
     }
 }
